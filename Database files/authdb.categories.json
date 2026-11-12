@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "6a4ca657f1ea06e1093ff442"
+  },
+  "name": "category-1",
+  "shortDescription": "category-1 category-1",
+  "longDescription": "category-1 category-1 category-1",
+  "image": "uploads\\1783408215609-Screenshot (5).png",
+  "slug": "category-1",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-07-07T07:10:15.631Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-07T07:10:15.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4ca66bf1ea06e1093ff443"
+  },
+  "name": "category-2",
+  "shortDescription": "category-2 category-2",
+  "longDescription": "category-2 category-2 category-2",
+  "image": "uploads\\1783408235745-Screenshot (8).png",
+  "slug": "category-2",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-07-07T07:10:35.766Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-07T07:10:35.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4ca680f1ea06e1093ff444"
+  },
+  "name": "category-3",
+  "shortDescription": "category-3 category-3",
+  "longDescription": "category-3 category-3 category-3",
+  "image": "uploads\\1783408256458-Screenshot 2026-03-26 111635.png",
+  "slug": "category-3",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-07-07T07:10:56.499Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-07T07:10:56.499Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4ca694f1ea06e1093ff445"
+  },
+  "name": "category-4",
+  "shortDescription": "category-4 category-4",
+  "longDescription": "category-4 category-4 category-4",
+  "image": "uploads\\1783408276019-Screenshot 2026-04-30 210725.png",
+  "slug": "category-4",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-07-07T07:11:16.039Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-07T07:11:16.039Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4ca6a7f1ea06e1093ff446"
+  },
+  "name": "category-5",
+  "shortDescription": "category-5 category-5",
+  "longDescription": "category-5 category-5 category-5",
+  "image": "uploads\\1783408295909-Screenshot 2026-05-27 152811.png",
+  "slug": "category-5",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-07-07T07:11:35.915Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-07T07:11:35.915Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4ca6bdf1ea06e1093ff447"
+  },
+  "name": "category-6",
+  "shortDescription": "category-6 category-6",
+  "longDescription": "category-6 category-6 category-6",
+  "image": "uploads\\1783408317067-Screenshot 2026-06-03 185657.png",
+  "slug": "category-6",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-07-07T07:11:57.072Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-07T07:11:57.072Z"
+  },
+  "__v": 0
+}]

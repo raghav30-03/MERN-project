@@ -1,0 +1,156 @@
+[{
+  "_id": {
+    "$oid": "6a4ca6fef1ea06e1093ff448"
+  },
+  "name": "service-1",
+  "slug": "service-1",
+  "category": "category-1",
+  "fasting": true,
+  "ageGroup": "0-18",
+  "gender": "male",
+  "vitalSystem": "bone",
+  "preventiveWellness": "yes",
+  "shortDescription": "service-1 service-1",
+  "longDescription": "service-1 service-1 service-1",
+  "mrp": 1000,
+  "sellingPrice": 999,
+  "status": true,
+  "image": "uploads\\1783408382076-Screenshot 2026-06-14 095435.png",
+  "createdAt": {
+    "$date": "2026-07-07T07:13:02.083Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-07T07:13:02.083Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4ca72cf1ea06e1093ff449"
+  },
+  "name": "service-2",
+  "slug": "service-2",
+  "category": "category-2",
+  "fasting": false,
+  "ageGroup": "all",
+  "gender": "male",
+  "vitalSystem": "bone",
+  "preventiveWellness": "no",
+  "shortDescription": "service-2 service-2",
+  "longDescription": "service-2 service-2 service-2",
+  "mrp": 500,
+  "sellingPrice": 498.98,
+  "status": true,
+  "image": "uploads\\1783408428022-Screenshot 2026-06-13 162247.png",
+  "createdAt": {
+    "$date": "2026-07-07T07:13:48.028Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-07T07:13:48.028Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4ca756f1ea06e1093ff44a"
+  },
+  "name": "service-3",
+  "slug": "service-3",
+  "category": "category-3",
+  "fasting": false,
+  "ageGroup": "all",
+  "gender": "female",
+  "vitalSystem": "bone",
+  "preventiveWellness": "yes",
+  "shortDescription": "service-3 service-3",
+  "longDescription": " service-3 service-3 service-3",
+  "mrp": 5656,
+  "sellingPrice": 3432,
+  "status": true,
+  "image": "uploads\\1783408470080-Screenshot 2026-06-14 105847.png",
+  "createdAt": {
+    "$date": "2026-07-07T07:14:30.116Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-07T07:14:30.116Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4ca779f1ea06e1093ff44b"
+  },
+  "name": "service-4",
+  "slug": "service-4",
+  "category": "category-4",
+  "fasting": true,
+  "ageGroup": "41-65",
+  "gender": "male",
+  "vitalSystem": "kidney",
+  "preventiveWellness": "no",
+  "shortDescription": "service-4 service-4",
+  "longDescription": "service-4 service-4 service-4",
+  "mrp": 3345,
+  "sellingPrice": 2334,
+  "status": true,
+  "image": "uploads\\1783408505854-Screenshot 2026-06-26 122144.png",
+  "createdAt": {
+    "$date": "2026-07-07T07:15:05.861Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-07T07:15:05.861Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4ca7a6f1ea06e1093ff44c"
+  },
+  "name": "service-5",
+  "slug": "service-5",
+  "category": "category-5",
+  "fasting": false,
+  "ageGroup": "41-65",
+  "gender": "male",
+  "vitalSystem": "lungs",
+  "preventiveWellness": "yes",
+  "shortDescription": "service-5 service-5",
+  "longDescription": "service-5 service-5 service-5",
+  "mrp": 8989,
+  "sellingPrice": 3445,
+  "status": true,
+  "image": "uploads\\1783408550314-Screenshot 2026-06-26 103237.png",
+  "createdAt": {
+    "$date": "2026-07-07T07:15:50.320Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-07T07:15:50.320Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4ca7d3f1ea06e1093ff44d"
+  },
+  "name": "service-6",
+  "slug": "service-6",
+  "category": "category-6",
+  "fasting": false,
+  "ageGroup": "18-40",
+  "gender": "female",
+  "vitalSystem": "lungs",
+  "preventiveWellness": "yes",
+  "shortDescription": "service-6 service-6",
+  "longDescription": "service-6 service-6 service-6",
+  "mrp": 234,
+  "sellingPrice": 123,
+  "status": true,
+  "image": "uploads\\1783408595400-Screenshot 2026-06-13 162147.png",
+  "createdAt": {
+    "$date": "2026-07-07T07:16:35.406Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-07T07:16:35.406Z"
+  },
+  "__v": 0
+}]

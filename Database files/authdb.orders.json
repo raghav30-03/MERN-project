@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "6a4c9b3169df137d1c8cd39f"
+  },
+  "serviceId": {
+    "$oid": "6a4a9d3aaeeb2cb6151c2256"
+  },
+  "serviceSlug": "service-1",
+  "serviceName": "service-1",
+  "customerName": "James Bond",
+  "email": "james.bond@gmail.com",
+  "phone": "9123456789",
+  "preferredDate": "2026-07-30",
+  "sessions": 1,
+  "notes": "qweq2dq2ed",
+  "totalPrice": 900,
+  "status": "pending",
+  "createdAt": {
+    "$date": "2026-07-07T06:22:41.504Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-07T06:22:41.504Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4ca033f1ea06e1093ff440"
+  },
+  "serviceId": {
+    "$oid": "6a4a9d3aaeeb2cb6151c2256"
+  },
+  "serviceSlug": "service-1",
+  "serviceName": "service-1",
+  "customerName": "order-1",
+  "email": "order1@gmail.com",
+  "phone": "2313412445",
+  "preferredDate": "3213-03-01",
+  "sessions": 1,
+  "notes": "awdawd",
+  "totalPrice": 900,
+  "status": "pending",
+  "createdAt": {
+    "$date": "2026-07-07T06:44:03.765Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-07T06:44:03.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4ca0dff1ea06e1093ff441"
+  },
+  "serviceId": {
+    "$oid": "6a4a9d3aaeeb2cb6151c2256"
+  },
+  "serviceSlug": "service-1",
+  "serviceName": "service-1",
+  "customerName": "order-2",
+  "email": "order2@gmail.com",
+  "phone": "9234782389",
+  "preferredDate": "1233-03-24",
+  "sessions": 1,
+  "notes": "awddqwd",
+  "totalPrice": 900,
+  "status": "pending",
+  "createdAt": {
+    "$date": "2026-07-07T06:46:55.626Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-07T06:46:55.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4ca849f1ea06e1093ff44e"
+  },
+  "serviceId": {
+    "$oid": "6a4ca6fef1ea06e1093ff448"
+  },
+  "serviceSlug": "service-1",
+  "serviceName": "service-1",
+  "customerName": "order-3",
+  "email": "order-3@gmail.com",
+  "phone": "2198437890",
+  "preferredDate": "8390-02-09",
+  "sessions": 1,
+  "notes": "order-3",
+  "totalPrice": 999,
+  "status": "pending",
+  "createdAt": {
+    "$date": "2026-07-07T07:18:33.354Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-07T07:18:33.354Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4ca849f1ea06e1093ff44f"
+  },
+  "serviceId": {
+    "$oid": "6a4ca7a6f1ea06e1093ff44c"
+  },
+  "serviceSlug": "service-5",
+  "serviceName": "service-5",
+  "customerName": "order-3",
+  "email": "order-3@gmail.com",
+  "phone": "2198437890",
+  "preferredDate": "8390-02-09",
+  "sessions": 1,
+  "notes": "order-3",
+  "totalPrice": 3445,
+  "status": "pending",
+  "createdAt": {
+    "$date": "2026-07-07T07:18:33.375Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-07T07:18:33.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4ddd417aa8505d7328d7d6"
+  },
+  "serviceId": {
+    "$oid": "6a4ca779f1ea06e1093ff44b"
+  },
+  "serviceSlug": "service-4",
+  "serviceName": "service-4",
+  "customerName": "gdgbdfbgdfgbd",
+  "email": "raghav.sbnps@gmail.com",
+  "phone": "5446545646",
+  "preferredDate": "4565-05-05",
+  "sessions": 1,
+  "notes": "",
+  "totalPrice": 2334,
+  "status": "pending",
+  "createdAt": {
+    "$date": "2026-07-08T05:16:49.849Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-08T05:16:49.849Z"
+  },
+  "__v": 0
+}]

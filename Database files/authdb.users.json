@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "6a4b534c8779d6497c8ce0bd"
+  },
+  "name": "James",
+  "email": "james@gmail.com",
+  "password": "$2b$10$w8tnp3B88/ezNcq95MFWDeakIXIqcY9Zpz06T6mLv1GXKIohc2TRa",
+  "phoneNo": 1234567890,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4c8c6266879977c1182b71"
+  },
+  "name": "James Bond",
+  "email": "james.bond@gmail.com",
+  "password": "$2b$10$nsYXShmfl/1Q1dvQgAwQdeASFjNAv.Y2sbe89La29XoUZH7Vervp.",
+  "phoneNo": 9123456789,
+  "__v": 0,
+  "lastLoginAt": {
+    "$date": "2026-07-08T05:18:01.037Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-08T05:18:01.039Z"
+  }
+}]
