@@ -84,7 +84,11 @@ function EditService() {
 
                 if (service.image) {
                     const cleanPath = service.image.replaceAll("\\", "/");
-                    setImagePreview(`http://localhost:3000/${cleanPath}`);
+                    setImagePreview(
+                        service.image.startsWith("http")
+                            ? service.image
+                            : `http://localhost:3000/${cleanPath}`
+                    );
                 }
             } catch (error) {
                 console.error("Error fetching Service details:", error);

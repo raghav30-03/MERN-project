@@ -1,0 +1,27 @@
+@'
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Local uploads (keep local until migration is verified)
+backend/uploads/
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+'@ | Set-Content .gitignore
+# Temporary image migration files
+backend/image-mapping.json
+backend/updateImagePaths.js
