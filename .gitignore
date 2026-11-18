@@ -1,4 +1,3 @@
-@'
 # Environment variables and secrets
 .env
 .env.*
@@ -21,7 +20,7 @@ backend/uploads/
 .vscode/
 .DS_Store
 Thumbs.db
-'@ | Set-Content .gitignore
+
 # Temporary image migration files
 backend/image-mapping.json
 backend/updateImagePaths.js
